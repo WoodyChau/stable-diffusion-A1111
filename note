@@ -1,2 +1,4 @@
 Launch App
-./webui.sh 
+./webui.sh --api
+
+--api = api mode
